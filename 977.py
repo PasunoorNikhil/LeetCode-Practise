@@ -1,3 +1,4 @@
+" Squares of a Sorted Array "
 class Solution:
     def sortedSquares(self, A: List[int]) -> List[int]:
         result=[]
